@@ -8,17 +8,14 @@
  
 В результате тестирования выявлены следующие дефекты:
  
-* Неточный расчет бонуса 
- 
-https://github.com/Obelianko/javaqa-1-2-2-Pecision/issues/1#issue-902500731
+* [Неточный расчет бонуса](https://github.com/Obelianko/javaqa-1-2-2-Pecision/issues/1#issue-902500731)
  
  
 ## Описание процесса тестирования
  
 В процессе тестирования использовались артефакты не использовались:
  
-В качестве тестовых данных использовались данные из задания 2 по ссылке:
-* https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+В качестве тестовых данных использовались данные из [задания2](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
  
 * public class Main {
  
